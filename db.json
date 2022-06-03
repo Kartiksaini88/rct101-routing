@@ -1,0 +1,27 @@
+{
+   "product":[ {
+        "name" : "SmartPhone",
+        "img":"https://placeimg.com/280/280/tech",
+        "price": 30,
+        "id" : 1
+    },
+    {
+        "name" : "Pose",
+        "img":"https://placeimg.com/280/280/any?t=1654240346908",
+        "price" : 20,
+        "id" : 2
+    },
+    {
+        "name" : "Golf",
+        "img":"https://placeimg.com/280/280/any/grayscale?t=1654240294272",
+        "price" : 50,
+        "id" : 3
+    },
+    {
+        "name" : "Cycle",
+        "img":"https://placeimg.com/280/280/any/grayscale?t=1654240268660",
+        "price" : 100,
+        "id" : 4
+    }
+   ]
+}
